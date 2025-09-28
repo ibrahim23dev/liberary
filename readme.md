@@ -213,5 +213,5 @@ echo "MONGODB_URI=mongodb://localhost:27017/library" > .env
 
 # Start the server
 
-npm run dev
+npm run dev ok akdom perfect hoysa
 ```
