@@ -215,3 +215,26 @@ echo "MONGODB_URI=mongodb://localhost:27017/library" > .env
 
 npm run dev ok akdom perfect hoysa
 ```
+
+
+
+```bash
+
+
+# Clone  this repo
+
+git clone https://github.com/yourname/library-management-api.git
+
+# Install dependencies
+
+cd library-management-api
+npm install
+
+# Create a .env file and add your MongoDB URI
+
+echo "MONGODB_URI=mongodb://localhost:27017/library" > .env
+
+# Start the server
+
+npm run dev ok akdom perfect hoysa
+```
